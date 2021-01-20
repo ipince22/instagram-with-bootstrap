@@ -24,7 +24,7 @@ article .post-button-bar a{color: grey;}
 #three-col article .post-header,
 #three-col article .post-comment,
 #three-col article .post-button-bar
-{display: none;}
+{display: block;}
 #three-col article .post-img{width: 100%; height: calc(30vh);}
 #three-col article .post-video{width: 100%; height: calc(30vh);}
 .nav-tabs > li, .nav-pills > li {

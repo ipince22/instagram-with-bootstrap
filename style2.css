@@ -1,0 +1,15 @@
+.main{margin-top: 60px}
+.container-fluid{padding-left: 0px;padding-right: 0px;}
+.view-options{margin-bottom: 10px;font-size: 10px;}
+
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+}
+.nav-pills>li>a{color: grey;}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {background: grey;color:white;}
+.nav-tabs, .nav-pills {
+    text-align:center;
+    display: inline-block;
+}
